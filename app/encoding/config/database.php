@@ -1,9 +1,9 @@
 <?php
 
 $servername='localhost';
-$username='id20013079_cbms_tabaco';
-$password='iLoveYouBeBeCo_112816';
-$dbname = "id20013079_cbms_db";
+$username='username';
+$password='password';
+$dbname = "database_name";
 
 $conn=mysqli_connect($servername, $username, $password, $dbname);
 
